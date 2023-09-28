@@ -7,13 +7,12 @@ function App() {
       style={{
         position: 'fixed',
         inset: 0,
-        paddingBottom: '40px',
-        paddingRight: '20px',
       }}
     >
       <Tldraw />
     </div>
   );
 }
-
+// paddingBottom: '40px',
+//         paddingRight: '20px',
 export default App;
